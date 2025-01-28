@@ -1,4 +1,4 @@
-😀 <br> Hi everyone, I'm [Vignesh](https://example.com), this is the account I use for learning & experimenting (ie. CS50) !
+😀 <br> Hi everyone, I'm [Vignesh] (https://example.com), this is the account I use for learning & experimenting (ie. CS50) !
 Check out my main account over at 
 
 ### About Me
