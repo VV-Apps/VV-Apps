@@ -32,7 +32,7 @@
  - Like to code small extensions and projects for self-user or projects
 
 ### CS Interests 💻
-  - Bio-informattics
+  - Bioinformatics
   - AI/ML techniques for large-data
 
 ### Hobbies 🙌
