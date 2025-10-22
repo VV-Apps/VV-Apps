@@ -24,6 +24,7 @@
 
 ### About Me 🌟
 ![Static Badge](https://img.shields.io/badge/NUSH_Alumni-blue)
+![Static Badge](https://img.shields.io/badge/LKCSoM_Student-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/VV-Apps/Readme)
 ![GitHub watchers](https://img.shields.io/github/watchers/VV-Apps/Readme)
 ![GitHub followers](https://img.shields.io/github/followers/VV-Apps)
