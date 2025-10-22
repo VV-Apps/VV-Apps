@@ -29,25 +29,26 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/VV-Apps/Readme)
 ![GitHub followers](https://img.shields.io/github/followers/VV-Apps)
 
+ - Currently a M1 student at the LKC School of Medicine, NTU (Singapore)
  - Recently graduated from high school (Singapore)
  - Like to code small extensions and projects for self-user or projects
 
 ### CS Interests 💻
   - Bioinformatics
-  - AI/ML techniques for large-data
+  - AI/ML utilisation for studying a variety of data-types (eg. histology, ultrasound, MRI etc.)
 
 ### Hobbies 🙌
-  - Reading books (Currently reading Hitchicker's Guide to the Galaxy & War and Peace)
+  - Reading books (Dune & LOTR fan)
   - Philosophy (Informal discussions with mentors and friends)
-  - Running (Quite new, like exploring me neighbourhood on the way)
+  - Running (Nothing more refreshing than a 5km run)
   - Movies (At my peak, I got through 3 movies in a day)
 
 ### Languages 📣
 [![Languages](https://skillicons.dev/icons?i=py,github,git,mysql,java,html,css,bootstrap)](https://skillicons.dev)
-  - English, Tamil (Beta Testing: Spanish, Hindi)
+  - English, Tamil
 
 ### Websites 👨‍💻
-  - Cooking in the oven
+  - Will be updated as deployed
 
 ### Resume
 > [!NOTE]
